@@ -1,0 +1,19 @@
+*{
+    background-color: lightgray;
+    margin-top: 8%;
+    margin-left: 14%;
+    margin-right: 14%;
+}
+
+
+.container{
+    border: black 2px solid;
+}
+.chatBox{
+    border: black 2px solid;
+}
+.chatOpt{
+    border: black 3px solid;
+    margin-bottom: 1%;
+}
+
